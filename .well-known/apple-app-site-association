@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2JM75JLHNY.com.itsonthefloor.iotf",
+        "paths": ["/join/*", "/join"]
+      }
+    ]
+  }
+}
