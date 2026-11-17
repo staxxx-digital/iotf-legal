@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.itsonthefloor.iotf",
+      "sha256_cert_fingerprints": [
+        "66:5F:5A:FE:EB:76:CA:F5:B6:29:C0:9D:7A:9E:BA:A7:06:EE:0C:C7:74:A1:40:ED:85:17:AE:1E:41:36:FF:BE"
+      ]
+    }
+  }
+]
